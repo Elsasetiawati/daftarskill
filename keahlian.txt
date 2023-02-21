@@ -4,4 +4,12 @@
 -Wide Area Network
 -Administrasi Insfastruktur Jaringan
 -Administrasi Sistem Jaringan
--dan lain-lain
+
+++ skill yang diperoleh dirucom ++
+-Mengetik 10 Jari
+-Freecodecamp.org responsive web desain (html,css,hand. JavaScript)
+-VisualStudioCode
+-Crimping kabel UTP
+-Sololearn (introduction to html, JQuery, Intriduction JavaScript, COding for Marketers, Introduction to css, Responsive web desain, web development fundamentals)
+-Buat akun Linkedin
+-
